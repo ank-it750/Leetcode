@@ -6,11 +6,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ank-it750/Leetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/ank-it750/Leetcode/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ank-it750/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ank-it750/Leetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/ank-it750/Leetcode/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ank-it750/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Two Pointers
