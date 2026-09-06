@@ -9,12 +9,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ank-it750/Leetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/ank-it750/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ank-it750/Leetcode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/ank-it750/Leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ank-it750/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ank-it750/Leetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/ank-it750/Leetcode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/ank-it750/Leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ank-it750/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Two Pointers
 |  |
@@ -24,11 +26,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/ank-it750/Leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ank-it750/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Sorting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ank-it750/Leetcode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/ank-it750/Leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ank-it750/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Divide and Conquer
 |  |
@@ -46,4 +50,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/ank-it750/Leetcode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/ank-it750/Leetcode/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/ank-it750/Leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
