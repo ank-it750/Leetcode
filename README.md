@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ank-it750/Leetcode/tree/master/0001-two-sum) |
+| [0066-plus-one](https://github.com/ank-it750/Leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/ank-it750/Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/ank-it750/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ank-it750/Leetcode/tree/master/0189-rotate-array) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/ank-it750/Leetcode/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/ank-it750/Leetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/ank-it750/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/ank-it750/Leetcode/tree/master/0268-missing-number) |
 ## Bit Manipulation
