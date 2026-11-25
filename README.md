@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/ank-it750/Leetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/ank-it750/Leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ank-it750/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/ank-it750/Leetcode/tree/master/0704-binary-search) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/ank-it750/Leetcode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/ank-it750/Leetcode/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/ank-it750/Leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/ank-it750/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/ank-it750/Leetcode/tree/master/0268-missing-number) |
 ## Bit Manipulation
@@ -99,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ank-it750/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/ank-it750/Leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
