@@ -1,7 +1,22 @@
 class Solution {
-    public int mySqrt(int x) {
-        long r = x;
-        while(r*r>x) r = (r+(x/r))/2;
-        return (int)r;
+    public int mySqrt(int n) {
+       int low =0;
+        int high = n;
+        int ans =-1;
+        while(low<=high){
+            int mid = low+(high-low)/2;
+            if((long)mid*mid==n) {
+                ans = mid;
+                break;
+            }
+            else if((long)mid*mid<n){
+                ans = mid;
+                low = mid+1;
+            }
+            else{
+                high = mid-1;
+            }
+        }
+        return ans;
     }
 }
